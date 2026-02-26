@@ -1,26 +1,197 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Primary - Light Violet (Pastel) */
+  --color-primary: #A78BFA;
+  --color-primary-dark: #8B5CF6;
+
+  /* Accent Colors - Soft Pastels */
+  --color-accent-orange: #FDBA74;
+  --color-accent-teal: #5EEAD4;
+  --color-accent-green: #86EFAC;
+  --color-accent-pink: #F9A8D4;
+  --color-accent-yellow: #FDE68A;
+  --color-accent-blue: #93C5FD;
+
+  /* Neutral Colors */
+  --color-dark: #4C4670;
+  --color-gray: #9CA3AF;
+  --color-light: #FAF5FF;
+  --color-white: #FFFFFF;
+
+  /* Background & Foreground */
+  --background: #FFFFFF;
+  --foreground: #4C4670;
 }
 
 @theme inline {
+  /* Colors */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-primary: #A78BFA;
+  --color-primary-dark: #8B5CF6;
+  --color-accent-orange: #FDBA74;
+  --color-accent-teal: #5EEAD4;
+  --color-accent-green: #86EFAC;
+  --color-accent-pink: #F9A8D4;
+  --color-accent-yellow: #FDE68A;
+  --color-accent-blue: #93C5FD;
+  --color-dark: #4C4670;
+  --color-gray: #9CA3AF;
+  --color-light: #FAF5FF;
+
+  /* Fonts - Sora for headings, Work Sans for body */
+  --font-heading: var(--font-heading), "Sora", system-ui, sans-serif;
+  --font-body: var(--font-body), "Work Sans", system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Hide Scrollbar but keep scroll functionality */
+html {
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE/Edge */
+}
+
+html::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Opera */
+}
+
+/* Selection */
+::selection {
+  background: var(--color-primary);
+  color: white;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body);
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+/* Typography Utilities */
+.font-heading {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus Ring */
+*:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* Animation Classes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.6s ease-out;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.6s ease-out;
+}
+
+/* 3D Flip Card Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.group:hover .group-hover\:rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Accent Color Classes */
+.bg-accent-orange {
+  background-color: var(--color-accent-orange);
+}
+
+.bg-accent-teal {
+  background-color: var(--color-accent-teal);
+}
+
+.bg-accent-green {
+  background-color: var(--color-accent-green);
+}
+
+.bg-accent-pink {
+  background-color: var(--color-accent-pink);
+}
+
+.bg-accent-yellow {
+  background-color: var(--color-accent-yellow);
+}
+
+.text-accent-orange {
+  color: var(--color-accent-orange);
+}
+
+.text-accent-teal {
+  color: var(--color-accent-teal);
+}
+
+.text-accent-green {
+  color: var(--color-accent-green);
+}
+
+.text-accent-pink {
+  color: var(--color-accent-pink);
+}
+
+.text-accent-yellow {
+  color: var(--color-accent-yellow);
+}
+
+/* Gradient Backgrounds */
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #6C6EDB 0%, #8B8EF5 100%);
+}
+
+.bg-gradient-hero {
+  background: radial-gradient(ellipse at center top, #8B8EF5 0%, #6C6EDB 50%, #5557C5 100%);
 }

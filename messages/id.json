@@ -1,0 +1,235 @@
+{
+    "metadata": {
+        "title": "Explore Tana Toraja",
+        "description": "Website resmi pariwisata Kabupaten Tana Toraja - Where Ancestors Live Forever"
+    },
+    "nav": {
+        "home": "Beranda",
+        "destinations": "Destinasi",
+        "experiences": "Wisata",
+        "culture": "Budaya & Warisan",
+        "culinary": "Kuliner",
+        "events": "Event & Festival",
+        "plan": "Rencanakan",
+        "stay": "Penginapan",
+        "transport": "Transportasi",
+        "gallery": "Galeri",
+        "articles": "Artikel",
+        "contact": "Kontak",
+        "search": "Cari...",
+        "language": "Bahasa"
+    },
+    "destinations": {
+        "title": "Destinasi Wisata",
+        "description": "Jelajahi keindahan alam dan kekayaan budaya Tana Toraja yang memukau dunia."
+    },
+    "promo": {
+        "badge": "Panduan Wisata",
+        "title": "Mulai Perjalanan Anda ke Tana Toraja",
+        "description": "Unduh panduan wisata lengkap kami atau atur itinerary Anda dengan paket wisata pilihan.",
+        "cta": "Rencanakan Perjalanan"
+    },
+    "hero": {
+        "tagline": "Where Ancestors Live Forever",
+        "subtitle": "Jelajahi keindahan alam dan budaya Tana Toraja yang menakjubkan",
+        "searchPlaceholder": "Cari destinasi, event, atau tempat makan...",
+        "exploreButton": "Jelajahi Sekarang",
+        "scrollDown": "Gulir ke bawah"
+    },
+    "quickAccess": {
+        "title": "Akses Cepat",
+        "subtitle": "Klik link di bawah ini untuk mengakses informasi destinasi dan layanan dengan lebih cepat.",
+        "destinations": "Destinasi",
+        "culture": "Budaya",
+        "events": "Event",
+        "culinary": "Kuliner",
+        "accommodation": "Penginapan",
+        "articles": "Artikel"
+    },
+    "welcome": {
+        "heading": "Selamat Datang di Tana Toraja",
+        "description": "Jelajahi pesona budaya Toraja yang memikat hati. Dari arsitektur tongkonan yang megah, tradisi unik yang masih terjaga, hingga keindahan alam yang menakjubkan. Mari temukan pengalaman tak terlupakan di Tana Toraja!"
+    },
+    "featured": {
+        "title": "Destinasi Wisata Pilihan",
+        "subtitle": "Cek Langsung Destinasi Wisata Unggulan Tana Toraja",
+        "viewAll": "Lihat Semua Destinasi",
+        "viewDetails": "Lihat Detail"
+    },
+    "culture": {
+        "title": "Budaya & Tradisi",
+        "subtitle": "Warisan leluhur yang tetap hidup hingga kini",
+        "quote": "\"Di Tana Toraja, kematian bukanlah akhir, melainkan awal perjalanan menuju Puya, tanah arwah.\"",
+        "exploreButton": "Jelajahi Budaya Toraja"
+    },
+    "events": {
+        "title": "Event Mendatang",
+        "subtitle": "Jangan lewatkan momen-momen spesial di Tana Toraja",
+        "viewAll": "Lihat Semua Event",
+        "noEvents": "Tidak ada event mendatang"
+    },
+    "eventsPage": {
+        "title": "Kalender Event & Festival",
+        "description": "Saksikan kemeriahan budaya dan tradisi Toraja melalui berbagai event dan festival sepanjang tahun.",
+        "categories": {
+            "all": "Semua",
+            "ceremony": "Upacara Adat",
+            "festival": "Festival Seni",
+            "music": "Musik & Pertunjukan",
+            "religion": "Keagamaan"
+        }
+    },
+    "map": {
+        "title": "Peta Interaktif",
+        "subtitle": "Temukan lokasi destinasi wisata di Tana Toraja",
+        "loadingMap": "Memuat peta..."
+    },
+    "weather": {
+        "title": "Cuaca di Tana Toraja",
+        "humidity": "Kelembaban",
+        "wind": "Angin",
+        "bestTime": "Waktu Terbaik Berkunjung",
+        "bestTimeDesc": "Juni - September (musim kemarau)",
+        "condition": "Berawan Sebagian",
+        "junSep": "Jun - Sep",
+        "junSepLabel": "Musim Terbaik",
+        "octDec": "Okt - Des",
+        "octDecLabel": "Lovely December",
+        "janMay": "Jan - Mei",
+        "janMayLabel": "Musim Hujan"
+    },
+    "articles": {
+        "title": "Cerita & Tips Wisata",
+        "subtitle": "Inspirasi dan panduan untuk petualangan Toraja Anda",
+        "viewAll": "Lihat Semua Artikel",
+        "viewMore": "Lihat Lainnya"
+    },
+    "instagram": {
+        "title": "Instagram",
+        "subtitle": "Bagikan momen indahmu dengan #ExploreTanaToraja",
+        "followUs": "Ikuti Kami"
+    },
+    "newsletter": {
+        "title": "Dapatkan Info Terbaru",
+        "subtitle": "Berlangganan newsletter kami untuk mendapatkan info wisata terbaru",
+        "placeholder": "Masukkan email Anda",
+        "button": "Berlangganan",
+        "success": "Terima kasih telah berlangganan!",
+        "privacy": "Kami menghargai privasi Anda"
+    },
+    "culturePage": {
+        "hero": {
+            "title": "Warisan Leluhur",
+            "subtitle": "Perjalanan abadi menyelami tradisi sakral Tana Toraja.",
+            "scroll": "Gulir untuk Menjelajah"
+        },
+        "intro": {
+            "title": "Aluk Todolo",
+            "subtitle": "Jalan Para Leluhur",
+            "description": "Di Toraja, kematian bukanlah akhir, melainkan sebuah transisi. Seluruh hidup kami adalah persiapan menuju Puya (dunia arwah). Koneksi mendalam dengan leluhur ini membentuk setiap aspek kehidupan kami sehari-hari, dari arsitektur rumah hingga motif kain tenun.",
+            "quote": "Hidup yang baik adalah menghormati mereka yang telah mendahului kita."
+        },
+        "pillars": {
+            "rambuSolo": {
+                "title": "Rambu Solo'",
+                "description": "Upacara pemakaman megah yang menjadi pusat kehidupan sosial masyarakat Toraja."
+            },
+            "tongkonan": {
+                "title": "Tongkonan",
+                "description": "Lebih dari sekadar rumah, ini adalah pusat spiritual bagi klan keluarga."
+            },
+            "tauTau": {
+                "title": "Tau-Tau",
+                "description": "Patung kayu yang berfungsi sebagai wadah duniawi bagi roh orang mati."
+            },
+            "tenun": {
+                "title": "Tenun Toraja",
+                "description": "Kain tenun yang menceritakan kisah garis keturunan, status sosial, dan spiritualitas."
+            },
+            "londa": {
+                "title": "Londa",
+                "description": "Gua makam kuno yang menggantung di tebing kapur, menjaga rahasia para leluhur."
+            },
+            "passiliran": {
+                "title": "Passiliran",
+                "description": "Makam bayi keramat di dalam pohon hidup, mengembalikan jiwa suci ke alam untuk tumbuh bersama pohon."
+            }
+        },
+        "cta": {
+            "title": "Saksikan Tradisi",
+            "button": "Jelajahi Situs Budaya"
+        },
+        "facts": {
+            "title": "Tahukah Anda?",
+            "items": [
+                {
+                    "title": "Harga Kerbau",
+                    "text": "Kerbau Bonga (Albino) bisa berharga ratusan juta rupiah dan dianggap sebagai kendaraan suci menuju akhirat."
+                },
+                {
+                    "title": "Makam Batu",
+                    "text": "Jenazah dimakamkan di tebing batu untuk menghemat lahan pertanian dan melindungi dari gangguan binatang."
+                },
+                {
+                    "title": "Warna Ukiran",
+                    "text": "Empat warna utama ukiran Toraja (hitam, merah, kuning, putih) melambangkan kasta sosial dan metafisika kehidupan."
+                }
+            ]
+        }
+    },
+    "footer": {
+        "description": "Website resmi pariwisata Kabupaten Tana Toraja, Sulawesi Selatan, Indonesia.",
+        "explore": {
+            "title": "Jelajahi",
+            "destinations": "Destinasi",
+            "culture": "Budaya & Tradisi",
+            "events": "Event",
+            "culinary": "Kuliner",
+            "gallery": "Galeri Foto"
+        },
+        "plan": {
+            "title": "Rencanakan Perjalanan",
+            "gettingThere": "Cara Menuju Toraja",
+            "accommodation": "Penginapan",
+            "aboutUs": "Tentang Kami"
+        },
+        "about": {
+            "title": "Tentang",
+            "aboutToraja": "Tentang Tana Toraja",
+            "aboutUs": "Tentang Kami",
+            "contact": "Kontak",
+            "faq": "FAQ"
+        },
+        "contact": {
+            "title": "Hubungi Kami",
+            "address": "Jl. Pongtiku No. 1, Makale, Tana Toraja",
+            "phone": "+62 423 xxxxxx",
+            "email": "info@exploretanatoraja.id"
+        },
+        "copyright": "© 2026 Dinas Pariwisata Kabupaten Tana Toraja. Hak Cipta Dilindungi.",
+        "social": "Ikuti Kami"
+    },
+    "common": {
+        "learnMore": "Pelajari Lebih Lanjut",
+        "viewAll": "Lihat Semua",
+        "loading": "Memuat...",
+        "error": "Terjadi kesalahan",
+        "category": {
+            "cultural": "Budaya",
+            "nature": "Alam",
+            "village": "Desa Wisata"
+        },
+        "destination": {
+            "back": "Kembali",
+            "overview": "Ringkasan",
+            "gallery": "Galeri",
+            "visitorInfo": "Info Pengunjung",
+            "openingHours": "Jam Buka",
+            "entranceFee": "Tiket Masuk",
+            "international": "Mancanegara",
+            "domestic": "Domestik",
+            "getDirections": "Petunjuk Arah",
+            "viewOnMap": "Lihat di Peta"
+        }
+    }
+}

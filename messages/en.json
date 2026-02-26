@@ -1,0 +1,254 @@
+{
+    "metadata": {
+        "title": "Explore Tana Toraja",
+        "description": "Official tourism website of Tana Toraja Regency - Where Ancestors Live Forever"
+    },
+    "nav": {
+        "home": "Home",
+        "destinations": "Destinations",
+        "experiences": "Experiences",
+        "culture": "Culture & Heritage",
+        "culinary": "Culinary Delights",
+        "events": "Events & Festivals",
+        "plan": "Plan Your Trip",
+        "stay": "Where to Stay",
+        "transport": "Getting There",
+        "gallery": "Gallery",
+        "articles": "Articles",
+        "contact": "Contact",
+        "search": "Search...",
+        "language": "Language"
+    },
+    "destinations": {
+        "title": "Destinations",
+        "description": "Explore the natural beauty and rich culture of Tana Toraja that mesmerizes the world."
+    },
+    "promo": {
+        "badge": "Travel Guide",
+        "title": "Start Your Journey to Tana Toraja",
+        "description": "Download our complete travel guide or customize your itinerary with our curated tour packages.",
+        "cta": "Plan Your Trip"
+    },
+    "hero": {
+        "tagline": "Where Ancestors Live Forever",
+        "subtitle": "Discover the stunning natural beauty and rich culture of Tana Toraja",
+        "searchPlaceholder": "Search destinations, events, or restaurants...",
+        "exploreButton": "Explore Now",
+        "scrollDown": "Scroll down"
+    },
+    "quickAccess": {
+        "title": "Quick Access",
+        "subtitle": "Click the links below for faster access to destinations and essential local services.",
+        "destinations": "Destinations",
+        "culture": "Culture",
+        "events": "Events",
+        "culinary": "Culinary",
+        "accommodation": "Where to Stay",
+        "articles": "Travel Stories"
+    },
+    "welcome": {
+        "heading": "Welcome to Tana Toraja",
+        "description": "Explore the captivating charm of Toraja culture. From the magnificent tongkonan architecture to unique traditions still preserved, and stunning natural beauty. Discover an unforgettable experience in Tana Toraja"
+    },
+    "featured": {
+        "title": "Explore Toraja's Best Kept Secrets",
+        "subtitle": "From green mountains to stunning natural springs",
+        "viewAll": "View All Destinations",
+        "viewDetails": "View Details"
+    },
+    "culture": {
+        "title": "Culture & Traditions",
+        "subtitle": "Ancestral heritage that lives on until today",
+        "quote": "\"In Tana Toraja, death is not the end, but the beginning of a journey to Puya, the land of souls.\"",
+        "exploreButton": "Explore Toraja Culture"
+    },
+    "events": {
+        "title": "Upcoming Events",
+        "subtitle": "Don't miss special moments in Tana Toraja",
+        "viewAll": "View All Events",
+        "noEvents": "No upcoming events"
+    },
+    "eventsPage": {
+        "title": "Events & Festivals Calendar",
+        "description": "Witness the vibrancy of Toraja culture and traditions through various events and festivals throughout the year.",
+        "categories": {
+            "all": "All",
+            "ceremony": "Traditional Ceremony",
+            "festival": "Art Festival",
+            "music": "Music & Performance",
+            "religion": "Religious"
+        }
+    },
+    "map": {
+        "title": "Interactive Map",
+        "subtitle": "Find tourist destination locations in Tana Toraja",
+        "loadingMap": "Loading map..."
+    },
+    "weather": {
+        "title": "Weather in Tana Toraja",
+        "humidity": "Humidity",
+        "wind": "Wind",
+        "bestTime": "Best Time to Visit",
+        "bestTimeDesc": "June - September (dry season)",
+        "condition": "Partly Cloudy",
+        "junSep": "Jun - Sep",
+        "junSepLabel": "Best Season",
+        "octDec": "Oct - Dec",
+        "octDecLabel": "Lovely December",
+        "janMay": "Jan - May",
+        "janMayLabel": "Rainy Season"
+    },
+    "articles": {
+        "title": "Travel Stories & Tips",
+        "subtitle": "Inspiration and guides for your Toraja adventure",
+        "viewAll": "View All Articles",
+        "viewMore": "View More"
+    },
+    "instagram": {
+        "title": "Instagram",
+        "subtitle": "Share your beautiful moments with #ExploreTanaToraja",
+        "followUs": "Follow Us"
+    },
+    "newsletter": {
+        "title": "Get Latest Updates",
+        "subtitle": "Subscribe to our newsletter for the latest tourism information",
+        "placeholder": "Enter your email",
+        "button": "Subscribe",
+        "success": "Thank you for subscribing!",
+        "privacy": "We respect your privacy"
+    },
+    "footer": {
+        "description": "Official tourism website of Tana Toraja Regency, South Sulawesi, Indonesia.",
+        "explore": {
+            "title": "Explore",
+            "destinations": "Destinations",
+            "culture": "Culture & Traditions",
+            "events": "Events",
+            "culinary": "Culinary",
+            "gallery": "Photo Gallery"
+        },
+        "plan": {
+            "title": "Plan Your Trip",
+            "gettingThere": "Getting There",
+            "accommodation": "Accommodation",
+            "aboutUs": "About Us"
+        },
+        "about": {
+            "title": "About",
+            "aboutToraja": "About Tana Toraja",
+            "aboutUs": "About Us",
+            "contact": "Contact",
+            "faq": "FAQ"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "address": "Jl. Pongtiku No. 1, Makale, Tana Toraja",
+            "phone": "+62 423 xxxxxx",
+            "email": "info@exploretanatoraja.id"
+        },
+        "copyright": "© 2026 Tourism Office of Tana Toraja Regency. All Rights Reserved.",
+        "social": "Follow Us"
+    },
+    "home": {
+        "hero": {
+            "title": "Where Ancestors\nLive Forever",
+            "subtitle": "Discover the sacred highlands of Tana Toraja, a land where life and death are celebrated in equal measure.",
+            "cta": "Explore Destinations",
+            "watchVideo": "Watch Video"
+        },
+        "quickAccess": {
+            "culture": "Culture",
+            "nature": "Nature",
+            "events": "Events",
+            "culinary": "Culinary"
+        },
+        "promo": {
+            "title": "Magical Toraja",
+            "subtitle": "Experience the unique culture and breathtaking landscapes of Tana Toraja.",
+            "cta": "Plan Your Trip"
+        }
+    },
+    "culturePage": {
+        "hero": {
+            "title": "Living Heritage",
+            "subtitle": "A timeless journey into the sacred traditions of Tana Toraja.",
+            "scroll": "Scroll to Discover"
+        },
+        "intro": {
+            "title": "Aluk Todolo",
+            "subtitle": "The Way of the Ancestors",
+            "description": "In Toraja, death is not an end, but a transition. Our entire life is a preparation for the journey to Puya (the afterlife). This profound connection with our ancestors shapes every aspect of our daily existence, from the architecture of our homes to the patterns in our textiles.",
+            "quote": "To live well is to honor those who came before us."
+        },
+        "pillars": {
+            "rambuSolo": {
+                "title": "Rambu Solo'",
+                "description": "The elaborate funeral ceremony that is the centerpiece of Toraja social life."
+            },
+            "tongkonan": {
+                "title": "Tongkonan",
+                "description": "More than a house, it is the spiritual center of the family clan."
+            },
+            "tauTau": {
+                "title": "Tau-Tau",
+                "description": "Wooden effigies that serve as earthly vessels for the spirits of the dead."
+            },
+            "tenun": {
+                "title": "Tenun Toraja",
+                "description": "Woven fabrics that tell stories of lineage, social status, and spirituality."
+            },
+            "londa": {
+                "title": "Londa",
+                "description": "Ancient burial caves hanging from limestone cliffs, guarding the secrets of the ancestors."
+            },
+            "passiliran": {
+                "title": "Passiliran",
+                "description": "Sacred baby graves in living trees, returning pure souls to nature to grow with the tree."
+            }
+        },
+        "cta": {
+            "title": "Witness the Tradition",
+            "button": "Explore Cultural Sites"
+        },
+        "facts": {
+            "title": "Did You Know?",
+            "items": [
+                {
+                    "title": "The Buffalo's Worth",
+                    "text": "Albino buffaloes (Tedong Bonga) can cost over $50,000 USD and are considered sacred vehicles for the afterlife."
+                },
+                {
+                    "title": "Cliff Graves",
+                    "text": "Bodies are buried in stone cliffs to save land for agriculture and to protect the remains from animals."
+                },
+                {
+                    "title": "Royal Colors",
+                    "text": "The four main colours of Toraja carvings (black, red, yellow, white) represent the social caste and metaphysics."
+                }
+            ]
+        }
+    },
+    "common": {
+        "learnMore": "Learn More",
+        "viewAll": "View All",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "category": {
+            "cultural": "Cultural",
+            "nature": "Nature",
+            "village": "Village"
+        },
+        "destination": {
+            "back": "Back",
+            "overview": "Overview",
+            "gallery": "Gallery",
+            "visitorInfo": "Visitor Info",
+            "openingHours": "Opening Hours",
+            "entranceFee": "Entrance Fee",
+            "international": "International",
+            "domestic": "Domestic",
+            "getDirections": "Get Directions",
+            "viewOnMap": "View on Map"
+        }
+    }
+}
