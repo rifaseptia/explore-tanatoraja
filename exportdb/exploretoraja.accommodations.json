@@ -1,0 +1,335 @@
+[{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0391"
+  },
+  "title": {
+    "id": "Toraja Heritage Hotel",
+    "en": "Toraja Heritage Hotel"
+  },
+  "slug": "toraja-heritage-hotel",
+  "description": {
+    "id": "Hotel bintang 4 dengan arsitektur Tongkonan modern di jantung kota Rantepao.",
+    "en": "A 4-star hotel with modern Tongkonan architecture in the heart of Rantepao."
+  },
+  "story": {
+    "id": "Toraja Heritage Hotel adalah hotel premium pertama di Tana Toraja yang mengadopsi arsitektur Tongkonan ke dalam desain kontemporer. Setiap kamar didekorasi dengan motif ukiran khas Toraja, sementara fasilitas modern memastikan kenyamanan tamu internasional. Terletak strategis di pusat kota Rantepao, hotel ini menjadi base camp ideal untuk menjelajahi seluruh wilayah Tana Toraja.",
+    "en": "Toraja Heritage Hotel is the first premium hotel in Tana Toraja that adopts Tongkonan architecture into contemporary design. Each room is decorated with traditional Toraja carving motifs, while modern facilities ensure international guest comfort. Strategically located in the center of Rantepao, this hotel serves as an ideal base camp for exploring the entire Tana Toraja region."
+  },
+  "category": "hotel",
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070",
+  "priceRange": "Rp 800.000 - 1.500.000",
+  "rating": 4,
+  "amenities": [
+    "WiFi",
+    "Pool",
+    "Breakfast",
+    "AC",
+    "Restaurant",
+    "Parking"
+  ],
+  "address": "Jl. Andi Mappanyukki No. 12, Rantepao",
+  "phone": "+62 423-21234",
+  "mapUrl": "#",
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0392"
+  },
+  "title": {
+    "id": "Tongkonan Homestay",
+    "en": "Tongkonan Homestay"
+  },
+  "slug": "tongkonan-homestay",
+  "description": {
+    "id": "Menginap di rumah tradisional Tongkonan asli dengan keluarga lokal.",
+    "en": "Stay in an authentic traditional Tongkonan house with a local family."
+  },
+  "story": {
+    "id": "Pengalaman menginap paling otentik di Toraja. Anda akan tinggal di rumah Tongkonan asli milik keluarga Toraja, menikmati masakan rumahan, dan belajar tentang budaya Toraja langsung dari tuan rumah. Suasana pedesaan yang tenang dan pemandangan sawah terasering menjadi bonus tak ternilai.",
+    "en": "The most authentic lodging experience in Toraja. You will stay in a genuine Tongkonan house owned by a Toraja family, enjoy home-cooked meals, and learn about Toraja culture directly from your hosts. The peaceful rural atmosphere and terraced rice paddy views are a priceless bonus."
+  },
+  "category": "homestay",
+  "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070",
+  "priceRange": "Rp 150.000 - 350.000",
+  "rating": 5,
+  "amenities": [
+    "Breakfast",
+    "Cultural Experience",
+    "Garden"
+  ],
+  "address": "Desa Kete Kesu, Tana Toraja",
+  "phone": "+62 812-4321-0001",
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0393"
+  },
+  "title": {
+    "id": "Misiliana Hotel",
+    "en": "Misiliana Hotel"
+  },
+  "slug": "misiliana-hotel",
+  "description": {
+    "id": "Hotel resort dengan kolam renang dan pemandangan Gunung Sesean.",
+    "en": "Resort hotel with swimming pool and Mount Sesean views."
+  },
+  "story": {
+    "id": "Misiliana Hotel terkenal sebagai salah satu hotel terbaik di Rantepao. Dengan kolam renang outdoor yang menghadap Gunung Sesean dan taman tropis yang asri, hotel ini menawarkan kemewahan di tengah alam Toraja. Kamar-kamarnya luas dengan balkon pribadi yang menghadap pegunungan.",
+    "en": "Misiliana Hotel is renowned as one of the best hotels in Rantepao. With an outdoor pool facing Mount Sesean and lush tropical gardens, this hotel offers luxury amidst Toraja nature. Rooms are spacious with private balconies overlooking the mountains."
+  },
+  "category": "resort",
+  "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070",
+  "priceRange": "Rp 600.000 - 1.200.000",
+  "rating": 4,
+  "amenities": [
+    "WiFi",
+    "Pool",
+    "Breakfast",
+    "AC",
+    "Spa",
+    "Mountain View"
+  ],
+  "address": "Jl. Pongtiku, Rantepao",
+  "phone": "+62 423-21567",
+  "mapUrl": "#",
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0394"
+  },
+  "title": {
+    "id": "Luta Resort Toraja",
+    "en": "Luta Resort Toraja"
+  },
+  "slug": "luta-resort",
+  "description": {
+    "id": "Resort mewah dengan cottage bergaya Tongkonan dan pemandangan lembah.",
+    "en": "Luxury resort with Tongkonan-style cottages and valley views."
+  },
+  "category": "resort",
+  "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=2070",
+  "priceRange": "Rp 1.000.000 - 2.500.000",
+  "rating": 5,
+  "amenities": [
+    "WiFi",
+    "Pool",
+    "Breakfast",
+    "AC",
+    "Spa",
+    "Restaurant",
+    "Bar"
+  ],
+  "address": "Jl. Salubarani, Makale",
+  "phone": "+62 423-22345",
+  "mapUrl": "#",
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0395"
+  },
+  "title": {
+    "id": "Pison Hotel & Restaurant",
+    "en": "Pison Hotel & Restaurant"
+  },
+  "slug": "pison-hotel",
+  "description": {
+    "id": "Hotel bersih dan nyaman di pusat Rantepao dengan restoran populer.",
+    "en": "Clean and comfortable hotel in central Rantepao with a popular restaurant."
+  },
+  "category": "hotel",
+  "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2070",
+  "priceRange": "Rp 400.000 - 700.000",
+  "rating": 3,
+  "amenities": [
+    "WiFi",
+    "Breakfast",
+    "AC",
+    "Restaurant",
+    "Parking"
+  ],
+  "address": "Jl. Abdul Gani No. 8, Rantepao",
+  "phone": "+62 423-21890",
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0396"
+  },
+  "title": {
+    "id": "Dena Homestay",
+    "en": "Dena Homestay"
+  },
+  "slug": "dena-homestay",
+  "description": {
+    "id": "Homestay sederhana dengan suasana pedesaan dan pemandangan sawah.",
+    "en": "Simple homestay with rural ambiance and rice field views."
+  },
+  "category": "homestay",
+  "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2070",
+  "priceRange": "Rp 100.000 - 250.000",
+  "rating": 4,
+  "amenities": [
+    "Breakfast",
+    "Garden",
+    "Parking"
+  ],
+  "address": "Desa Lemo, Makale",
+  "phone": "+62 813-5555-1234",
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0397"
+  },
+  "title": {
+    "id": "Toraja Prince Hotel",
+    "en": "Toraja Prince Hotel"
+  },
+  "slug": "toraja-prince-hotel",
+  "description": {
+    "id": "Hotel modern berkelas dengan sentuhan budaya Toraja.",
+    "en": "A classy modern hotel with Toraja cultural touches."
+  },
+  "category": "hotel",
+  "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=2070",
+  "priceRange": "Rp 500.000 - 900.000",
+  "rating": 4,
+  "amenities": [
+    "WiFi",
+    "Breakfast",
+    "AC",
+    "Restaurant",
+    "Parking",
+    "Laundry"
+  ],
+  "address": "Jl. Landorundun, Rantepao",
+  "phone": "+62 423-22890",
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0398"
+  },
+  "title": {
+    "id": "Rantepao Lodge",
+    "en": "Rantepao Lodge"
+  },
+  "slug": "rantepao-lodge",
+  "description": {
+    "id": "Guesthouse nyaman untuk backpacker dan budget traveler.",
+    "en": "Comfortable guesthouse for backpackers and budget travelers."
+  },
+  "category": "guesthouse",
+  "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=2070",
+  "priceRange": "Rp 80.000 - 200.000",
+  "rating": 3,
+  "amenities": [
+    "WiFi",
+    "Shared Kitchen",
+    "Parking"
+  ],
+  "address": "Jl. Mappanyukki, Rantepao",
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee8ae3aa92fbabf2a0399"
+  },
+  "title": {
+    "id": "Batutumonga Village Stay",
+    "en": "Batutumonga Village Stay"
+  },
+  "slug": "batutumonga-village-stay",
+  "description": {
+    "id": "Penginapan di atas bukit dengan panorama lembah Toraja yang spektakuler.",
+    "en": "Hilltop lodging with spectacular Toraja valley panorama."
+  },
+  "category": "homestay",
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070",
+  "priceRange": "Rp 200.000 - 400.000",
+  "rating": 5,
+  "amenities": [
+    "Breakfast",
+    "Mountain View",
+    "Trekking Guide",
+    "Garden"
+  ],
+  "address": "Batutumonga, Rantepao",
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:02:38.891Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:02:38.891Z"
+  }
+}]

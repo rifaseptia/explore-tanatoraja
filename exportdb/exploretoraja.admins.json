@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "695a0b5411d8856ca3b0dca7"
+  },
+  "name": "Admin",
+  "email": "admin@exploretoraja.id",
+  "password": "$2b$12$sYxZ/5VTz8GBlE2/DsxcpumF0VOpxH6rAYD3WAkZxSzb0aaspLUXi",
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-04T06:40:20.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-04T06:40:20.879Z"
+  },
+  "__v": 0
+}]

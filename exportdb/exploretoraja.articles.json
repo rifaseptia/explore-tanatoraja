@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de4"
+  },
+  "title": {
+    "id": "Menjelajahi Keajaiban Makam Batu Toraja",
+    "en": "Exploring the Wonders of Toraja Stone Graves"
+  },
+  "slug": "menjelajahi-keajaiban-makam-batu-toraja",
+  "content": {
+    "id": "Makam batu Toraja merupakan salah satu warisan budaya paling menakjubkan di Indonesia. Terletak di pegunungan Sulawesi Selatan, kompleks pemakaman ini menyimpan cerita ribuan tahun sejarah dan kepercayaan masyarakat Toraja. Pengunjung dapat melihat berbagai ukiran tradisional yang menghiasi fasad makam, setiap motif memiliki makna spiritual yang dalam. Prosesi pemakaman tradisional Toraja dikenal dengan nama Rambu Solo, yang merupakan upacara pemakaman besar-besaran untuk menghormati anggota komunitas yang telah meninggal.",
+    "en": "Toraja stone graves represent one of the most remarkable cultural heritages in Indonesia. Located in the mountains of South Sulawesi, this burial complex holds thousands of years of history and Toraja beliefs. Visitors can see various traditional carvings adorning the grave facades, each motif carrying deep spiritual meaning. The traditional Toraja burial process is known as Rambu Solo, a major funeral ceremony to honor deceased community members."
+  },
+  "excerpt": {
+    "id": "Temukan keajaiban makam batu tradisional Toraja yang menyimpan ribuan tahun sejarah dan kepercayaan masyarakat lokal.",
+    "en": "Discover the wonders of traditional Toraja stone graves that hold thousands years of history and local beliefs."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
+  "category": "culture",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-02-10T00:00:00.000Z"
+  },
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de5"
+  },
+  "title": {
+    "id": "Panduan Lengkap Festival Rambu Solo 2026",
+    "en": "Complete Guide to Rambu Solo Festival 2026"
+  },
+  "slug": "panduan-lengkap-festival-rambu-solo-2026",
+  "content": {
+    "id": "Rambu Solo adalah upacara pemakaman tradisional Toraja yang paling megah dan sakral. Festival ini menarik ribuan游客 dari seluruh dunia untuk menyaksikan tradisi unik yang telah dijalankan selama berabad-abad. Selama festival, Anda akan melihat prosesi adat yang meliputi pengorbanan kerbau (sesuai kemampuan keluarga), peletakan tulang belulang anggota keluarga yang telah meninggal sebelumnya, dan berbagai ritual lainnya.",
+    "en": "Rambu Solo is the most magnificent and sacred traditional Toraja funeral ceremony. This festival attracts thousands of tourists from around the world to witness the unique tradition that has been practiced for centuries. During the festival, you will see traditional processions including buffalo sacrifices (according to family capability), reburial of previously interred family remains, and various other rituals."
+  },
+  "excerpt": {
+    "id": "Segala yang perlu Anda ketahui tentang festival pemakaman tradisional Toraja yang paling megah.",
+    "en": "Everything you need to know about Toraja most magnificent traditional funeral festival."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=800",
+  "category": "culture",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-02-08T00:00:00.000Z"
+  },
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de6"
+  },
+  "title": {
+    "id": "Tips Berkunjung ke Tana Toraja pada Musim Kemarau",
+    "en": "Tips for Visiting Tana Toraja During Dry Season"
+  },
+  "slug": "tips-berkunjung-ke-tana-toraja-musim-kemarau",
+  "content": {
+    "id": "Musim kemarau di Tana Toraja berlangsung dari bulan April hingga Oktober, dan ini adalah waktu terbaik untuk mengunjungi wilayah ini. Cuaca cenderung kering dengan udara yang sejuk, memungkinkan Anda mengeksplorasi berbagai objek wisata tanpa gangguan hujan. Berikut beberapa tips penting: selalu gunakan tabir surya karena paparan UV di pegunungan cukup tinggi, bawalah jaket tipis untuk malam yang dingin, dan jangan lupa membawa kamera untuk mengabadikan keindahan arsitektur tradisional Toraja.",
+    "en": "The dry season in Tana Toraja runs from April to October, and this is the best time to visit the region. The weather tends to be dry with cool air, allowing you to explore various tourist attractions without rain interference. Here are some important tips: always use sunscreen as UV exposure in the mountains is quite high, bring a light jacket for cold nights, and dont forget to bring a camera to capture the beauty of traditional Toraja architecture."
+  },
+  "excerpt": {
+    "id": "Tips penting untuk memaksimalkan perjalanan Anda ke Tana Toraja selama musim kemarau.",
+    "en": "Important tips to maximize your trip to Tana Toraja during the dry season."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1559523161-0fc0d8b38a7a?w=800",
+  "category": "tips",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de7"
+  },
+  "title": {
+    "id": "Kuliner Khas Toraja yang Wajib Dicoba",
+    "en": "Must-Try Toraja Traditional Cuisine"
+  },
+  "slug": "kuliner-khas-toraja-wajib-coba",
+  "content": {
+    "id": "Tana Toraja tidak hanya terkenal dengan budaya yang kaya, tetapi juga dengan makanan tradisional yang lezat. Beberapa hidangan yang wajib Anda coba包括: Sop Konro (sup tulang iga dengan rempah khas), Pammarassan (daging sapi yang difermentasi seperti rendang), dan Tonco (sup kepala ikan). Makanan-makanan ini dapat Anda temukan di rumah makan tradisional di Rantepao, pusat游客 di Tana Toraja.",
+    "en": "Tana Toraja is not only famous for its rich culture but also for its delicious traditional foods. Some dishes you must try include: Sop Konro (rib bone soup with typical spices), Pammarassan (fermented beef similar to rendang), and Tonco (fish head soup). You can find these traditional dishes at traditional restaurants in Rantepao, the tourist center of Tana Toraja."
+  },
+  "excerpt": {
+    "id": "Jelajahi kelezatan makanan tradisional Toraja yang menggugah selera.",
+    "en": "Explore the delicious Toraja traditional cuisine that will delight your taste buds."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?w=800",
+  "category": "culinary",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-02-03T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de8"
+  },
+  "title": {
+    "id": "Petualangan Treking di Lereng Mount Sesean",
+    "en": "Trekking Adventure on Mount Sesean Slopes"
+  },
+  "slug": "petualangan-treking-lereng-mount-sesean",
+  "content": {
+    "id": "Mount Sesean adalah gunung berapi aktif setinggi 2.183 meter yang terletak di Tana Toraja. Treking ke puncak gunung ini menawarkan pengalaman tak terlupakan dengan panorama sunrise yang memukau. Perjalanan biasanya memakan waktu 4-5 jam dari Basecamp Palamba. Selama perjalanan, Anda akan melewati hutan pinus yang rindang dan padang rumput alpin. Pastikan untuk membawa cukup air dan makanan, serta雇佣 pemandu lokal yang berpengalaman.",
+    "en": "Mount Sesean is an active volcano at 2,183 meters elevation located in Tana Toraja. Trekking to the top of this mountain offers an unforgettable experience with stunning sunrise views. The journey usually takes 4-5 hours from Palamba Basecamp. Along the way, you will pass through dense pine forests and alpine grasslands. Make sure to bring enough water and food, and hire an experienced local guide."
+  },
+  "excerpt": {
+    "id": "Nikmati pengalaman treking tak terlupakan dengan panorama matahari terbit yang memukau.",
+    "en": "Enjoy an unforgettable trekking experience with stunning sunrise panoramas."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=800",
+  "category": "adventure",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-02-01T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735de9"
+  },
+  "title": {
+    "id": "Berita: Pembukaan Rute Penerbangan Baru ke Toraja",
+    "en": "News: Opening of New Flight Route to Toraja"
+  },
+  "slug": "berita-pembukaan-rute-penerbangan-baru-toraja",
+  "content": {
+    "id": "Bandara Bua Ponggok di Luwu Utara kini semakin mudah diakses dengan dibukanya rute penerbangan baru dari Makassar. Maskapai domestik melayani penerbangan harian yang membuat perjalanan ke Tana Toraja menjadi lebih nyaman dan efisien. Dengan waktu tempuh hanya sekitar 1 jam, wisatawan dapat lebih mudah mengeksplorasi kekayaan budaya Toraja. Pembukaan rute ini diharapkan dapat meningkatkan jumlah wisatawan yang mengunjungi daerah ini.",
+    "en": "Bua Ponggok Airport in North Luwu is now more accessible with the opening of new flight routes from Makassar. Domestic airlines serve daily flights making the journey to Tana Toraja more comfortable and efficient. With a travel time of only about 1 hour, tourists can more easily explore the cultural wealth of Toraja. The opening of this route is expected to increase the number of tourists visiting the area."
+  },
+  "excerpt": {
+    "id": "Bandara Bua Ponggok kini lebih mudah diakses dengan rute penerbangan baru dari Makassar.",
+    "en": "Bua Ponggok Airport is now more accessible with new flight routes from Makassar."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1591271300850-22d6784e0a7f?w=800",
+  "category": "news",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-01-28T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735dea"
+  },
+  "title": {
+    "id": "Mengenal Kepercayaan Animisme dalam Budaya Toraja",
+    "en": "Understanding Animist Beliefs in Toraja Culture"
+  },
+  "slug": "mengenal-kepercayaan-animisme-budaya-toraja",
+  "content": {
+    "id": "Masyarakat Toraja memeluk kepercayaan animisme yang dikenal dengan nama Aluk Todolo, atau kepercayaan terhadap nenek moyang. Kepercayaan ini telah ada sejak sebelum agama Kristen dan Islam masuk ke wilayah ini. Puncak pegunungan, pohon besar, dan bebatuan dianggap sebagai tempat tinggal roh-roh ancestral. Upacara-upacara tradisional seperti Rambu Solo dan Rambu Tuka dilakukan untuk menghormati dan berkomunikasi dengan roh-roh ini. Meskipun mayoritas masyarakat Toraja kini memeluk agama Kristen, kepercayaan tradisional masih sangat kental dalam kehidupan sehari-hari.",
+    "en": "The Toraja people embrace animist beliefs known as Aluk Todolo, or ancestor worship. This belief existed before Christianity and Islam arrived in the region. Mountain peaks, large trees, and boulders are considered dwelling places for ancestral spirits. Traditional ceremonies like Rambu Solo and Rambu Tuka are performed to honor and communicate with these spirits. Although the majority of Toraja people now follow Christianity, traditional beliefs remain deeply embedded in daily life."
+  },
+  "excerpt": {
+    "id": "Pelajari kepercayaan tradisional Aluk Todolo yang menjadi pondasi budaya Toraja.",
+    "en": "Learn about the traditional Aluk Todolo beliefs that form the foundation of Toraja culture."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800",
+  "category": "culture",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-01-25T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.096Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991fe95a9fb4ad044735deb"
+  },
+  "title": {
+    "id": "Akomodasi Terbaik di Tana Toraja untuk Budget-conscious Traveler",
+    "en": "Best Accommodations in Tana Toraja for Budget Travelers"
+  },
+  "slug": "akomodasi-terbaik-tana-toraja-budget-traveler",
+  "content": {
+    "id": "Berkunjung ke Tana Toraja tidak harus mahal. Berikut beberapa pilihan akomodasi yang ramah kantong: Wisma Gatotkaca menawarkan kamar bersih dengan harga terjangkau, Homestay keluarga di sekitar Rantepao memberikan pengalaman otentik dengan hospitality Toraja, dan beberapa hostel baru juga telah dibuka untuk backpacker. Yang terpenting, pesanlah jauh-jauh hari terutama saat musim ramai seperti periode Rambu Solo atau holidays.",
+    "en": "Visiting Tana Toraja does not have to be expensive. Here are some budget-friendly accommodation options: Wisma Gatotkaca offers clean rooms at affordable prices, family homestays around Rantepao provide authentic Toraja hospitality experiences, and some new hostels have also opened for backpackers. Most importantly, book well in advance especially during peak seasons like Rambu Solo period or holidays."
+  },
+  "excerpt": {
+    "id": "Rekomendasi penginapan murah namun nyaman untuk wisatawan dengan budget terbatas.",
+    "en": "Recommended affordable yet comfortable accommodations for budget-conscious tourists."
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1543158266-9136cf9b3c83?w=800",
+  "category": "tips",
+  "author": "Admin",
+  "publishedAt": {
+    "$date": "2026-01-20T00:00:00.000Z"
+  },
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:12:53.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:12:53.096Z"
+  }
+}]

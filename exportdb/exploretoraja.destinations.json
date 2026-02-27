@@ -1,0 +1,530 @@
+[{
+  "_id": {
+    "$oid": "695a0a3fa1bc8c2b5bb11808"
+  },
+  "title": {
+    "id": "Lemo",
+    "en": "Lemo"
+  },
+  "slug": "lemo",
+  "description": {
+    "id": "Lemo adalah situs pemakaman batu yang terkenal dengan deretan tau-tau.",
+    "en": "Lemo is a famous stone burial site with rows of tau-tau."
+  },
+  "excerpt": {
+    "id": "Pemakaman tebing dengan deretan tau-tau yang ikonik",
+    "en": "Cliff burial site with iconic rows of tau-tau"
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800",
+  "gallery": [],
+  "category": "cultural",
+  "tags": [
+    "tau-tau",
+    "burial site"
+  ],
+  "location": {
+    "coordinates": [
+      119.8749673,
+      -3.0415543
+    ],
+    "address": {
+      "id": "Desa Lemo, Kec. Makale Utara",
+      "en": "Lemo Village, North Makale"
+    }
+  },
+  "openingHours": {
+    "id": "08:00 - 17:00 setiap hari",
+    "en": "08:00 - 17:00 daily"
+  },
+  "entranceFee": {
+    "local": 20000,
+    "foreign": 50000
+  },
+  "rating": 4.7,
+  "reviewCount": 256,
+  "isFeatured": true,
+  "isPublished": true,
+  "facilities": [],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2026-01-04T06:35:43.812Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:34.758Z"
+  },
+  "faqs": [
+    {
+      "question": {
+        "id": "Berapa harga tiket masuk?",
+        "en": "How much is the entrance fee?"
+      },
+      "answer": {
+        "id": "Harga tiket masuk adalah Rp 15.000 untuk wisatawan domestik dan Rp 30.000 untuk mancanegara.",
+        "en": "Entrance fee is IDR 15,000 for domestic tourists and IDR 30,000 for international tourists."
+      },
+      "_id": {
+        "$oid": "6990ab5e48fa320ef14192e1"
+      }
+    },
+    {
+      "question": {
+        "id": "Apakah disarankan membawa pemandu?",
+        "en": "Is a guide recommended?"
+      },
+      "answer": {
+        "id": "Sangat disarankan untuk memahami sejarah dan budaya di tempat ini.",
+        "en": "Highly recommended to understand the history and culture of this place."
+      },
+      "_id": {
+        "$oid": "6990ab5e48fa320ef14192e2"
+      }
+    }
+  ],
+  "instagramLinks": []
+},
+{
+  "_id": {
+    "$oid": "695a0a3fa1bc8c2b5bb11809"
+  },
+  "title": {
+    "id": "Batutumonga",
+    "en": "Tana Toraja’s Iconic Hilltop Jesus Statue"
+  },
+  "slug": "buntu-burake-tana-torajas-iconic-hilltop-jesus-statue-epic-highland-views",
+  "description": {
+    "id": "Batutumonga adalah desa di ketinggian yang menawarkan pemandangan spektakuler.",
+    "en": "Rise above the everyday and discover Buntu Burake, one of Tana Toraja’s most iconic hilltop escapes—where the sky feels closer, the air turns cooler, and the views stretch across the dramatic highlands of South Sulawesi. Known for its towering Jesus statue that watches over Makale, this destination blends a powerful sense of place with a truly cinematic panorama.\n\nThe experience starts long before you reach the top. As you climb through winding roads and misty ridgelines, Toraja’s landscape slowly reveals itself—green valleys, layered hills, and a horizon that seems to go on forever. Once you arrive, everything invites you to pause: take photos that look unreal, breathe in the calm, and feel the quiet atmosphere that makes Buntu Burake more than just a viewpoint.\n\nWhether you’re a culture lover, a spiritual traveler, or simply chasing Indonesia’s most memorable vistas, Buntu Burake is a must-add to your Toraja itinerary. Come for the landmark—stay for the serenity, the sunsets, and that rare feeling of standing somewhere truly extraordinary."
+  },
+  "excerpt": {
+    "id": "Desa di ketinggian dengan pemandangan sunrise spektakuler",
+    "en": "Buntu Burake is Tana Toraja’s dramatic hilltop highlight—where a monumental landmark meets wide-open highland scenery. Come for the views, stay for the serenity and the unforgettable Toraja atmosphere."
+  },
+  "featuredImage": "/uploads/1767512951196-3s4v9g.blob",
+  "gallery": [
+    "/uploads/1767512957401-ptg9xx.blob"
+  ],
+  "category": "nature",
+  "tags": [
+    "sunrise",
+    "trekking",
+    "viewpoint"
+  ],
+  "location": {
+    "coordinates": [
+      119.86653049076713,
+      -3.094235391426591
+    ],
+    "address": {
+      "id": "Desa Batutumonga, Kec. Sesean",
+      "en": "Burake, Tana Toraja"
+    }
+  },
+  "openingHours": {
+    "id": "24 jam (area terbuka)",
+    "en": "24 hours (open area)"
+  },
+  "entranceFee": {
+    "local": 15000,
+    "foreign": 50000
+  },
+  "rating": 4.9,
+  "reviewCount": 412,
+  "isFeatured": true,
+  "isPublished": true,
+  "facilities": [],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-01-04T06:35:43.812Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:43.673Z"
+  },
+  "instagramLinks": [
+    "https://www.instagram.com/p/DFRwPXGyD56/"
+  ],
+  "faqs": [
+    {
+      "question": {
+        "id": "Apakah jalan menuju lokasi bagus?",
+        "en": "Is the road to the location good?"
+      },
+      "answer": {
+        "id": "Jalan sudah beraspal dan bisa dilalui mobil maupun bus medium.",
+        "en": "The road is paved and accessible by cars and medium buses."
+      },
+      "_id": {
+        "$oid": "6990ab6748fa320ef14192e9"
+      }
+    },
+    {
+      "question": {
+        "id": "Berapa lama waktu yang dibutuhkan untuk berkeliling?",
+        "en": "How long does it take to explore?"
+      },
+      "answer": {
+        "id": "Sekitar 45 menit hingga 1 jam.",
+        "en": "About 45 minutes to 1 hour."
+      },
+      "_id": {
+        "$oid": "6990ab6748fa320ef14192ea"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6990a5ab01a769a5c3182f94"
+  },
+  "title": {
+    "id": " Gua Londa",
+    "en": "Londa Caves"
+  },
+  "slug": "londa-caves-tana-toraja-mysterious-cave-tombs",
+  "description": {
+    "id": "Londa adalah kawasan gua yang berisi deretan kuburan batu kuno suku Toraja. Gua-gua ini menyimpan artifak dan mumifikasi tradisional yang berusia ratusan tahun. Pengunjung dapat mengeksplorasi lorong-lorong gua yang misterius dan melihat langsung proses penguburan tradisional Toraja.",
+    "en": "Londa is a cave complex containing ancient stone tombs of the Toraja people. These caves hold artifacts and traditional mummification dating back hundreds of years. Visitors can explore mysterious cave corridors and witness traditional Toraja burial practices."
+  },
+  "excerpt": {
+    "id": "Gua gua kuno dengan kuburan tradisional Toraja",
+    "en": "Ancient caves with traditional Toraja tombs"
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+  "gallery": [
+    "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800"
+  ],
+  "category": "cultural",
+  "tags": [
+    "cave",
+    "historical",
+    "cultural",
+    "tourism"
+  ],
+  "location": {
+    "coordinates": [
+      119.9244,
+      -3.0611
+    ],
+    "address": {
+      "id": "Desa Londa, Kecamatan Rindingallo, Kabupaten Toraja Utara, Sulawesi Selatan",
+      "en": "Londa Village, Rindingallo District, North Toraja Regency, South Sulawesi"
+    }
+  },
+  "openingHours": {
+    "id": "07.00 - 18.00 WITA",
+    "en": "07:00 - 18:00 WITA"
+  },
+  "entranceFee": {
+    "local": 50000,
+    "foreign": 150000,
+    "note": {
+      "id": "Termasuk pemandu lokal",
+      "en": "Including local guide"
+    }
+  },
+  "facilities": [
+    {
+      "icon": "Parking",
+      "name": {
+        "id": "Tempat Parkir",
+        "en": "Parking Area"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182f95"
+      }
+    },
+    {
+      "icon": "Guide",
+      "name": {
+        "id": "Pemandu Lokal",
+        "en": "Local Guide"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182f96"
+      }
+    },
+    {
+      "icon": "Toilet",
+      "name": {
+        "id": "Toilet",
+        "en": "Toilet"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182f97"
+      }
+    }
+  ],
+  "instagramLinks": [],
+  "rating": 4.5,
+  "reviewCount": 128,
+  "isFeatured": true,
+  "isPublished": true,
+  "faqs": [],
+  "createdAt": {
+    "$date": "2026-02-14T16:41:15.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:58.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990a5ab01a769a5c3182f9a"
+  },
+  "title": {
+    "id": "Pemandonan Kerangka Buda",
+    "en": "Bones of the Buddha"
+  },
+  "slug": "pemandonan-kerangka-buda-tana-toraja-sacred-bones",
+  "description": {
+    "id": "Pemandonan Kerangka Buda adalah situs budaya yang menyimpan ratusan kerangka manusia yang dimummifikasi secara tradisional. Tempat ini memiliki nilai spiritual tinggi bagi masyarakat Toraja dan menawarkan pengalaman budaya yang unik dan mendalam.",
+    "en": "The Bones of the Buddha is a cultural site that stores hundreds of traditionally mummified human skeletons. This place has high spiritual value for the Toraja people and offers a unique and profound cultural experience."
+  },
+  "excerpt": {
+    "id": "Situs budaya dengan kerangka tradisional Toraja",
+    "en": "Cultural site with traditional Toraja skeletons"
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800",
+  "gallery": [
+    "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800"
+  ],
+  "category": "cultural",
+  "tags": [
+    "cultural",
+    "historical",
+    "spiritual"
+  ],
+  "location": {
+    "coordinates": [
+      119.8856,
+      -3.0733
+    ],
+    "address": {
+      "id": "Kecamatan Simbuang, Kabupaten Toraja Utara, Sulawesi Selatan",
+      "en": "Simbuang District, North Toraja Regency, South Sulawesi"
+    }
+  },
+  "openingHours": {
+    "id": "08.00 - 17.00 WITA",
+    "en": "08:00 - 17:00 WITA"
+  },
+  "entranceFee": {
+    "local": 30000,
+    "foreign": 100000
+  },
+  "facilities": [
+    {
+      "icon": "Guide",
+      "name": {
+        "id": "Pemandu",
+        "en": "Guide"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182f9b"
+      }
+    }
+  ],
+  "instagramLinks": [],
+  "rating": 4.3,
+  "reviewCount": 89,
+  "isFeatured": true,
+  "isPublished": true,
+  "faqs": [],
+  "createdAt": {
+    "$date": "2026-02-14T16:41:15.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:54.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990a5ab01a769a5c3182f9e"
+  },
+  "title": {
+    "id": "Danau Matano",
+    "en": "Lake Matano"
+  },
+  "slug": "danau-matano-tana-toraja-deepest-lake-indonesia",
+  "description": {
+    "id": "Danau Matano adalah danau tektonik terdalam di Indonesia dengan kedalaman mencapai 590 meter. Airnya yang jernih berwarna biru kehijauan dikelilingi oleh pegunungan hijau. Tempat ini cocok untuk menyelam, snorkeling, dan menikmati keindahan alam.",
+    "en": "Lake Matano is the deepest tectonic lake in Indonesia with a depth of up to 590 meters. Its clear blue-green water is surrounded by green mountains. This place is perfect for diving, snorkeling, and enjoying natural beauty."
+  },
+  "excerpt": {
+    "id": "Danau terdalam di Indonesia dengan air sangat jernih",
+    "en": "Deepest lake in Indonesia with crystal clear water"
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+  "gallery": [
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+    "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800"
+  ],
+  "category": "nature",
+  "tags": [
+    "lake",
+    "nature",
+    "diving",
+    "snorkeling"
+  ],
+  "location": {
+    "coordinates": [
+      121.3389,
+      -3.2311
+    ],
+    "address": {
+      "id": "Kecamatan Nuha, Kabupaten Luwu Timur, Sulawesi Selatan",
+      "en": "Nuha District, East Luwu Regency, South Sulawesi"
+    }
+  },
+  "openingHours": {
+    "id": "24 jam",
+    "en": "24 hours"
+  },
+  "entranceFee": {
+    "local": 0,
+    "foreign": 0,
+    "note": {
+      "id": "Gratis",
+      "en": "Free"
+    }
+  },
+  "facilities": [
+    {
+      "icon": "Parking",
+      "name": {
+        "id": "Tempat Parkir",
+        "en": "Parking Area"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182f9f"
+      }
+    },
+    {
+      "icon": "Restaurant",
+      "name": {
+        "id": "Restoran",
+        "en": "Restaurant"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182fa0"
+      }
+    },
+    {
+      "icon": "Boat",
+      "name": {
+        "id": "Boat Rental",
+        "en": "Boat Rental"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182fa1"
+      }
+    }
+  ],
+  "instagramLinks": [],
+  "rating": 4.7,
+  "reviewCount": 256,
+  "isFeatured": true,
+  "isPublished": true,
+  "faqs": [],
+  "createdAt": {
+    "$date": "2026-02-14T16:41:15.799Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:51.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990a5ab01a769a5c3182fa4"
+  },
+  "title": {
+    "id": "Museum Bori Parinding",
+    "en": "Bori Parinding Museum"
+  },
+  "slug": "museum-bori-parinding-tana-toraja-ancient-burial-site",
+  "description": {
+    "id": "Museum Bori Parinding adalah museum terbuka yang menyimpan puluhan tongkonan (rumah tradisional Toraja) dan batu nisan kuno. Museum ini memberikan pemahaman mendalam tentang tradisi pemakaman dan arsitektur tradisional Toraja yang unik.",
+    "en": "Bori Parinding Museum is an open-air museum that stores dozens of tongkonan (traditional Toraja houses) and ancient tombstones. This museum provides a deep understanding of Toraja burial traditions and unique traditional architecture."
+  },
+  "excerpt": {
+    "id": "Museum terbuka dengan tongkonan dan batu nisan kuno",
+    "en": "Open-air museum with ancient tongkonan and tombstones"
+  },
+  "featuredImage": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+  "gallery": [
+    "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800"
+  ],
+  "category": "cultural",
+  "tags": [
+    "museum",
+    "cultural",
+    "historical",
+    "architecture"
+  ],
+  "location": {
+    "coordinates": [
+      119.9311,
+      -3.0444
+    ],
+    "address": {
+      "id": "Desa Bori Parinding, Kecamatan Sangalla, Kabupaten Toraja Utara, Sulawesi Selatan",
+      "en": "Bori Parinding Village, Sangalla District, North Toraja Regency, South Sulawesi"
+    }
+  },
+  "openingHours": {
+    "id": "08.00 - 16.00 WITA",
+    "en": "08:00 - 16:00 WITA"
+  },
+  "entranceFee": {
+    "local": 75000,
+    "foreign": 200000
+  },
+  "facilities": [
+    {
+      "icon": "Parking",
+      "name": {
+        "id": "Tempat Parkir",
+        "en": "Parking Area"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182fa5"
+      }
+    },
+    {
+      "icon": "Guide",
+      "name": {
+        "id": "Pemandu",
+        "en": "Guide"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182fa6"
+      }
+    },
+    {
+      "icon": "Toilet",
+      "name": {
+        "id": "Toilet",
+        "en": "Toilet"
+      },
+      "_id": {
+        "$oid": "6990a5ab01a769a5c3182fa7"
+      }
+    }
+  ],
+  "instagramLinks": [],
+  "rating": 4.6,
+  "reviewCount": 178,
+  "isFeatured": true,
+  "isPublished": true,
+  "faqs": [],
+  "createdAt": {
+    "$date": "2026-02-14T16:41:15.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T17:05:47.756Z"
+  },
+  "__v": 0
+}]

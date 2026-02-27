@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "698eea21c704f4f9cf18804a"
+  },
+  "title": {
+    "id": "Penerbangan ke Makassar",
+    "en": "Flights to Makassar"
+  },
+  "slug": "penerbangan-ke-makassar",
+  "description": {
+    "id": "Gerbang udara utama menuju Tana Toraja melalui Bandara Sultan Hasanuddin, Makassar.",
+    "en": "The main air gateway to Tana Toraja via Sultan Hasanuddin Airport, Makassar."
+  },
+  "story": {
+    "id": "Tana Toraja belum memiliki bandara komersial, sehingga jalur udara terdekat adalah melalui Bandara Internasional Sultan Hasanuddin di Makassar...",
+    "en": "Tana Toraja does not yet have a commercial airport, so the nearest air route is through Sultan Hasanuddin International Airport..."
+  },
+  "category": "flight",
+  "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?q=80&w=2074",
+  "duration": "2-3 jam penerbangan",
+  "priceRange": "Rp 800.000 - 2.500.000",
+  "tips": [
+    {
+      "id": "Pesan penerbangan pagi untuk tiba siang hari",
+      "en": "Book morning flights to arrive by noon"
+    },
+    {
+      "id": "Bandingkan harga di Traveloka atau Tiket.com",
+      "en": "Compare prices on Traveloka or Tiket.com"
+    },
+    {
+      "id": "Pertimbangkan jika tiket promo",
+      "en": "Consider the cheap tickets"
+    }
+  ],
+  "routes": [
+    {
+      "id": "Jakarta (CGK) → Makassar (UPG) — ~2.5 jam",
+      "en": "Jakarta (CGK) → Makassar (UPG) — ~2.5 hrs"
+    },
+    {
+      "id": "Bali (DPS) → Makassar (UPG) — ~1.5 jam",
+      "en": "Bali (DPS) → Makassar (UPG) — ~1.5 hrs"
+    },
+    {
+      "id": "Surabaya (SUB) - Makassar (UPG) - 2.5 hrs",
+      "en": "Surabaya (SUB) - Makassar (UPG) - 2.5 hrs"
+    }
+  ],
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T15:18:30.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eea21c704f4f9cf18804b"
+  },
+  "title": {
+    "id": "Bus Makassar–Rantepao",
+    "en": "Bus Makassar–Rantepao"
+  },
+  "slug": "bus-makassar-rantepao",
+  "description": {
+    "id": "Layanan bus malam dari Makassar ke Rantepao dengan berbagai kelas.",
+    "en": "Overnight bus service from Makassar to Rantepao with various classes."
+  },
+  "category": "bus",
+  "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2069",
+  "duration": "8-10 jam",
+  "priceRange": "Rp 150.000 - 350.000",
+  "tips": [
+    {
+      "id": "Pilih bus VIP untuk kenyamanan maksimal",
+      "en": "Choose VIP bus for maximum comfort"
+    },
+    {
+      "id": "Bawa bantal leher dan selimut tipis",
+      "en": "Bring a neck pillow and thin blanket"
+    }
+  ],
+  "routes": [
+    {
+      "id": "Terminal Daya, Makassar → Terminal Bolu, Rantepao",
+      "en": "Terminal Daya, Makassar → Terminal Bolu, Rantepao"
+    }
+  ],
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eea21c704f4f9cf18804c"
+  },
+  "title": {
+    "id": "Rental Mobil dari Makassar",
+    "en": "Car Rental from Makassar"
+  },
+  "slug": "rental-mobil-makassar",
+  "description": {
+    "id": "Sewa mobil dengan atau tanpa sopir untuk perjalanan fleksibel ke Toraja.",
+    "en": "Rent a car with or without a driver for a flexible journey to Toraja."
+  },
+  "category": "rental",
+  "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=2070",
+  "duration": "7-9 jam",
+  "priceRange": "Rp 500.000 - 1.200.000/hari",
+  "tips": [
+    {
+      "id": "Sewa dengan sopir jika tidak terbiasa medan berbukit",
+      "en": "Hire a driver if unfamiliar with hilly terrain"
+    }
+  ],
+  "routes": [
+    {
+      "id": "Makassar → Pare-Pare → Enrekang → Rantepao",
+      "en": "Makassar → Pare-Pare → Enrekang → Rantepao"
+    }
+  ],
+  "isFeatured": true,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eea21c704f4f9cf18804d"
+  },
+  "title": {
+    "id": "Angkutan Lokal (Pete-Pete)",
+    "en": "Local Transport (Pete-Pete)"
+  },
+  "slug": "angkutan-lokal-pete-pete",
+  "description": {
+    "id": "Angkutan umum mini yang melayani rute dalam kota dan antar desa di Toraja.",
+    "en": "Mini public transport serving routes within the city and between villages in Toraja."
+  },
+  "category": "local",
+  "image": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?q=80&w=2072",
+  "duration": "15-60 menit",
+  "priceRange": "Rp 5.000 - 15.000",
+  "tips": [
+    {
+      "id": "Siapkan uang pas, tidak ada kembalian",
+      "en": "Prepare exact change, no change given"
+    }
+  ],
+  "routes": [],
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eea21c704f4f9cf18804e"
+  },
+  "title": {
+    "id": "Sewa Motor",
+    "en": "Motorcycle Rental"
+  },
+  "slug": "sewa-motor",
+  "description": {
+    "id": "Sewa motor harian untuk menjelajahi Tana Toraja dengan bebas.",
+    "en": "Daily motorcycle rental to explore Tana Toraja freely."
+  },
+  "category": "rental",
+  "image": "https://images.unsplash.com/photo-1558980394-4c7c9299fe96?q=80&w=2070",
+  "duration": "Per hari",
+  "priceRange": "Rp 75.000 - 150.000/hari",
+  "tips": [
+    {
+      "id": "Pastikan punya SIM C yang masih berlaku",
+      "en": "Ensure you have a valid motorcycle license"
+    }
+  ],
+  "routes": [],
+  "isFeatured": false,
+  "isPublished": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:08:49.537Z"
+  }
+}]

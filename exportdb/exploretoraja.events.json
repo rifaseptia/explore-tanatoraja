@@ -1,0 +1,524 @@
+[{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2af"
+  },
+  "title": {
+    "id": "Rambu Solo: Upacara Pemakaman Akbar",
+    "en": "Rambu Solo: Grand Funeral Ceremony"
+  },
+  "slug": "rambu-solo-grand-ceremony-august",
+  "description": {
+    "id": "Upacara pemakaman adat Toraja yang sakral dan megah, berlangsung selama beberapa hari dengan prosesi tradisional.",
+    "en": "A sacred and grand Toraja traditional funeral ceremony, lasting for several days with traditional processions."
+  },
+  "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-08-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-08-15T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Sangalla, Tana Toraja",
+    "en": "Sangalla, Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": true,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b0"
+  },
+  "title": {
+    "id": "Ma'nene: Ritual Membersihkan Leluhur",
+    "en": "Ma'nene: Ancestor Cleaning Ritual"
+  },
+  "slug": "manene-ritual-2026",
+  "description": {
+    "id": "Ritual unik membersihkan dan mengganti pakaian jenazah leluhur sebagai bentuk penghormatan.",
+    "en": "A unique ritual of cleaning and changing the clothes of ancestral bodies as a form of respect."
+  },
+  "image": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-08-25T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Lembang Paton, Toraja Utara",
+    "en": "Lembang Paton, North Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": true,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b1"
+  },
+  "title": {
+    "id": "Ritual Tongkonan",
+    "en": "Tongkonan Ritual"
+  },
+  "slug": "tongkonan-ritual",
+  "description": {
+    "id": "Upacara adat di rumah tradisional Tongkonan untuk menghormati nenek moyang.",
+    "en": "Traditional ceremony at the Tongkonan traditional house to honor ancestors."
+  },
+  "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-12-01T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Desa Toraja",
+    "en": "Toraja Village"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b2"
+  },
+  "title": {
+    "id": "Rambu Solo Keluarga Nobata",
+    "en": "Rambu Solo Nobata Family"
+  },
+  "slug": "rambu-solo-nobata-family",
+  "description": {
+    "id": "Upacara pemakaman tradisional keluarga Nobata dengan prosesi adat yang lengkap.",
+    "en": "Traditional funeral ceremony of the Nobata family with complete traditional proceedings."
+  },
+  "image": "https://images.unsplash.com/photo-1591271300850-22d6784e0a7f?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-06-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-06-22T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Makale, Tana Toraja",
+    "en": "Makale, Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b3"
+  },
+  "title": {
+    "id": "Rambu Solo Pemimpin Adat",
+    "en": "Rambu Solo Traditional Leader"
+  },
+  "slug": "rambu-solo-traditional-leader",
+  "description": {
+    "id": "Upacara pemakaman massal untuk pemimpin adat yang diselenggarakan secara megah.",
+    "en": "Grand mass funeral ceremony for traditional leaders."
+  },
+  "image": "/uploads/1771176718026-924xpd.jpg",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-09-15T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-09-18T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Rantepao, Toraja Utara",
+    "en": "Rantepao, North Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:32:01.726Z"
+  },
+  "coordinates": [
+    119.8654,
+    -3.0747
+  ]
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b4"
+  },
+  "title": {
+    "id": "Ritual Pemakaman Anak-anak",
+    "en": "Children's Funeral Ritual"
+  },
+  "slug": "rambu-solo-child-funeral",
+  "description": {
+    "id": "Upacara pemakaman khusus untuk anak-anak dengan tradisi unik Toraja.",
+    "en": "Special funeral ceremony for children with unique Toraja traditions."
+  },
+  "image": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-07-05T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Sesean, Tana Toraja",
+    "en": "Sesean, Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b5"
+  },
+  "title": {
+    "id": "Rambu Solo Tradisi Saqko",
+    "en": "Rambu Solo Saqko Tradition"
+  },
+  "slug": "rambu-solo-saqko",
+  "description": {
+    "id": "Ritual pemakaman tradisional dengan tradisi Saqko yang unik.",
+    "en": "Traditional funeral ceremony with unique Saqko tradition."
+  },
+  "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-10-25T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-10-28T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Buntu Baringin, Toraja Utara",
+    "en": "Buntu Baringin, North Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b6"
+  },
+  "title": {
+    "id": "Upacara Pemakaman Agung",
+    "en": "Grand Funeral Ceremony"
+  },
+  "slug": "rambu-solo-grand-ceremony-2026",
+  "description": {
+    "id": "Upacara pemakaman agung yang dihadiri ribuan游客 dari seluruh dunia.",
+    "en": "Grand funeral ceremony attended by thousands of tourists from around the world."
+  },
+  "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-11-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-11-14T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Sangalla', Tana Toraja",
+    "en": "Sangalla', Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": true,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b7"
+  },
+  "title": {
+    "id": "Rambu Solo Rakyat Biasa",
+    "en": "Rambu Solo Common People"
+  },
+  "slug": "rambu-solo-common-people",
+  "description": {
+    "id": "Upacara pemakaman untuk rakyat biasa dengan adat istiadat yang tetap megah.",
+    "en": "Funeral ceremony for common people with still magnificent traditions."
+  },
+  "image": "https://images.unsplash.com/photo-1469406396016-013bfae5d83e?w=800&q=80",
+  "category": "ceremony",
+  "startDate": {
+    "$date": "2026-05-25T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Pala', Tana Toraja",
+    "en": "Pala', Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b8"
+  },
+  "title": {
+    "id": "Festival Budaya Toraja",
+    "en": "Toraja Cultural Festival"
+  },
+  "slug": "toraja-cultural-festival-2026",
+  "description": {
+    "id": "Festival budaya tahunan yang menampilkan tarian tradisional, musik, dan kerajinan khas Toraja.",
+    "en": "Annual cultural festival featuring traditional dances, music, and Toraja crafts."
+  },
+  "image": "https://images.unsplash.com/photo-1559523161-0fc0d8b38a7a?w=800&q=80",
+  "category": "festival",
+  "startDate": {
+    "$date": "2026-07-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-07-25T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Kete Kesu, Tana Toraja",
+    "en": "Kete Kesu, Tana Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": true,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2b9"
+  },
+  "title": {
+    "id": "Pasar Malam Rantepao",
+    "en": "Rantepao Night Market"
+  },
+  "slug": "rantepao-night-market",
+  "description": {
+    "id": "Pasar malam tradisional dengan makanan khas Toraja dan kerajinan tangan lokal.",
+    "en": "Traditional night market with Toraja specialties and local handicrafts."
+  },
+  "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80",
+  "category": "festival",
+  "startDate": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Pusat Kota Rantepao",
+    "en": "Rantepao City Center"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2ba"
+  },
+  "title": {
+    "id": "Pertunjukan Musik Bambu Toraja",
+    "en": "Toraja Bamboo Music Performance"
+  },
+  "slug": "toraja-bamboo-music-performance",
+  "description": {
+    "id": "Konser musik tradisional dengan instrumen bambu khas Toraja yang memukau.",
+    "en": "Traditional music concert with distinctive Toraja bamboo instruments."
+  },
+  "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=800&q=80",
+  "category": "music",
+  "startDate": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Rantepao Cultural Center",
+    "en": "Rantepao Cultural Center"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2bb"
+  },
+  "title": {
+    "id": "Festival Kopi Toraja",
+    "en": "Toraja Coffee Festival"
+  },
+  "slug": "toraja-coffee-festival-2026",
+  "description": {
+    "id": "Merayakan kopi Toraja yang mendunia dengan pameran, kompetisi barista, dan diskusi kopi.",
+    "en": "Celebrating world-renowned Toraja coffee with exhibitions, barista competitions, and coffee discussions."
+  },
+  "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+  "category": "festival",
+  "startDate": {
+    "$date": "2026-10-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-10-12T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Makale",
+    "en": "Makale"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2bc"
+  },
+  "title": {
+    "id": "Toraja Highland Marathon",
+    "en": "Toraja Highland Marathon"
+  },
+  "slug": "toraja-highland-marathon",
+  "description": {
+    "id": "Lomba lari maraton melewati pemandangan pegunungan dan sawah terasering yang menakjubkan.",
+    "en": "Marathon race through stunning mountain and terraced rice field views."
+  },
+  "image": "/uploads/1771176698089-zrd1oy.blob",
+  "category": "sports",
+  "startDate": {
+    "$date": "2026-11-15T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Buntu Baringin, Toraja Utara",
+    "en": "Buntu Baringin, North Toraja"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:40.413Z"
+  },
+  "coordinates": [
+    119.8654,
+    -3.0747
+  ]
+},
+{
+  "_id": {
+    "$oid": "699202d5439f73ef40d0d2bd"
+  },
+  "title": {
+    "id": "Festival Tanam Padi",
+    "en": "Rice Planting Festival"
+  },
+  "slug": "rice-planting-festival",
+  "description": {
+    "id": "Festival tradisional menanam padi dengan partisipasi masyarakat lokal.",
+    "en": "Traditional rice planting festival with local community participation."
+  },
+  "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+  "category": "festival",
+  "startDate": {
+    "$date": "2026-05-01T00:00:00.000Z"
+  },
+  "location": {
+    "id": "Sawah Terasering, Rantepao",
+    "en": "Terraced Rice Fields, Rantepao"
+  },
+  "isPublished": true,
+  "isFeatured": false,
+  "isRambuSolo": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T17:31:01.673Z"
+  }
+}]

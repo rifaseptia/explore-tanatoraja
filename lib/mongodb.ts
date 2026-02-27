@@ -31,8 +31,13 @@ async function dbConnect(): Promise<typeof mongoose> {
             bufferCommands: false,
         };
 
+        console.log('🔄 Attemping to connect to MongoDB...');
         cached.promise = mongoose.connect(MONGODB_URI!, opts).then((mongoose) => {
+            console.log('✅ MongoDB Connected successfully');
             return mongoose;
+        }).catch((err) => {
+            console.error('❌ MongoDB Connection error:', err);
+            throw err;
         });
     }
 
@@ -40,6 +45,7 @@ async function dbConnect(): Promise<typeof mongoose> {
         cached.conn = await cached.promise;
     } catch (e) {
         cached.promise = null;
+        console.error('❌ MongoDB connection failed during await:', e);
         throw e;
     }
 

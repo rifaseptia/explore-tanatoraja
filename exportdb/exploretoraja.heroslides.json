@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "698eed4dc1ee3791afddc076"
+  },
+  "title": {
+    "id": "Selamat Datang di Tana Toraja",
+    "en": "Welcome to Tana Toraja"
+  },
+  "subtitle": {
+    "id": "Jelajahi keindahan budaya dan alam yang memukau",
+    "en": "Explore the stunning culture and nature"
+  },
+  "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1920&q=80",
+  "ctaText": {
+    "id": "Mulai Jelajah",
+    "en": "Start Exploring"
+  },
+  "ctaLink": "#destinations",
+  "order": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eed4dc1ee3791afddc077"
+  },
+  "title": {
+    "id": "Warisan Budaya Dunia",
+    "en": "World Cultural Heritage"
+  },
+  "subtitle": {
+    "id": "Saksikan ritual Rambu Solo yang legendaris",
+    "en": "Witness the legendary Rambu Solo ritual"
+  },
+  "image": "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=1920&q=80",
+  "ctaText": {
+    "id": "Lihat Event",
+    "en": "See Events"
+  },
+  "ctaLink": "/events",
+  "order": 2,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698eed4dc1ee3791afddc078"
+  },
+  "title": {
+    "id": "Negeri di Atas Awan",
+    "en": "Land Above the Clouds"
+  },
+  "subtitle": {
+    "id": "Nikmati pemandangan Lolai yang menakjubkan",
+    "en": "Enjoy the breathtaking view of Lolai"
+  },
+  "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1920&q=80",
+  "ctaText": {
+    "id": "Kunjungi Lolai",
+    "en": "Visit Lolai"
+  },
+  "ctaLink": "/destinations/lolai",
+  "order": 3,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:22:21.075Z"
+  }
+}]

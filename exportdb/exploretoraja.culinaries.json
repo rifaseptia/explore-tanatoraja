@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e549688"
+  },
+  "title": {
+    "id": "Pa'piong",
+    "en": "Pa'piong"
+  },
+  "slug": "papiong",
+  "description": {
+    "id": "Hidangan khas Toraja yang dimasak dalam bambu.",
+    "en": "Signature Toraja dish cooked inside a bamboo stalk."
+  },
+  "story": {
+    "id": "Pa'piong adalah mahakarya kuliner Toraja yang dimasak menggunakan metode kuno. Daging (biasanya ayam, ikan, atau babi) dicampur dengan rempah-rempah pilihan dan daun mayana (miana), kemudian dimasukkan ke dalam batang bambu muda. Bambu tersebut kemudian dibakar di atas api terbuka selama berjam-jam hingga matang sempurna.",
+    "en": "Pa'piong is a Toraja culinary masterpiece cooked using an ancient method. Meat (usually chicken, fish, or pork) is mixed with selected spices and mayana leaves, then stuffed into young bamboo stalks. The bamboo is then roasted over an open fire for hours until perfectly cooked."
+  },
+  "ingredients": {
+    "id": [
+      "Daging (Ayam/Babi/Ikan)",
+      "Daun Mayana",
+      "Batang Bambu Muda",
+      "Bawang Merah & Putih",
+      "Cabai Katokkon"
+    ],
+    "en": [
+      "Meat (Chicken/Pork/Fish)",
+      "Mayana Leaves",
+      "Young Bamboo Stalk",
+      "Shallots & Garlic",
+      "Katokkon Chili"
+    ]
+  },
+  "recommendations": [
+    {
+      "name": "Warung Pong Buri",
+      "description": {
+        "id": "Salah satu tempat paling legendaris untuk menikmati Pa'piong asli dengan cita rasa otentik.",
+        "en": "One of the most legendary places to enjoy authentic Pa'piong with original flavors."
+      },
+      "address": "Jl. Emi Saelan, Rantepao, Tana Toraja",
+      "hours": "09:00 - 21:00",
+      "phone": "+62 812-3456-7890",
+      "mapUrl": "#",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000"
+    },
+    {
+      "name": "Kafe Aras",
+      "description": {
+        "id": "Kafe nyaman dengan suasana tradisional, menyajikan Pa'piong dengan penyajian modern.",
+        "en": "Cozy cafe with traditional ambiance, serving Pa'piong with a modern presentation."
+      },
+      "address": "Jl. Andi Mappanyukki No. 64, Rantepao",
+      "hours": "10:00 - 22:00",
+      "phone": "+62 811-2233-4455",
+      "mapUrl": "#"
+    }
+  ],
+  "tags": [
+    "#Papiong",
+    "#TorajaFood",
+    "#Traditional",
+    "#Spicy",
+    "#BambooCooking"
+  ],
+  "category": "main-course",
+  "image": "https://res.cloudinary.com/dvujswueo/image/upload/v1772155356/explore-toraja/blob.png",
+  "spiceLevel": 2,
+  "isHalal": false,
+  "isPublished": true,
+  "isFeatured": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T01:22:49.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e549689"
+  },
+  "title": {
+    "id": "Pantollo' Pamarasan",
+    "en": "Pantollo' Pamarasan"
+  },
+  "slug": "pantollo-pamarasan",
+  "description": {
+    "id": "Sup daging rawon hitam khas Toraja.",
+    "en": "Toraja's version of black soup using 'keluak'."
+  },
+  "story": {
+    "id": "Warna hitam pekat dari hidangan ini berasal dari Pamarasan (Keluak), bumbu khas yang memberikan rasa gurih dan legit yang dalam.",
+    "en": "The deep black color of this dish comes from Pamarasan (Keluak), a signature spice that imparts a deep, savory, and nutty flavor."
+  },
+  "ingredients": {
+    "id": [
+      "Daging/Ikan",
+      "Buah Pamarasan"
+    ],
+    "en": [
+      "Meat/Fish",
+      "Pamarasan (Keluak) Nut"
+    ]
+  },
+  "recommendations": [
+    {
+      "name": "RM. Mambo",
+      "description": {
+        "id": "Restoran keluarga favorit warga lokal.",
+        "en": "Local favorite family restaurant."
+      },
+      "address": "Jl. Dr. Ratulangi, Makale",
+      "hours": "08:00 - 20:00",
+      "mapUrl": "#"
+    }
+  ],
+  "tags": [
+    "#Pantollo",
+    "#BlackSoup",
+    "#TorajaCulinary",
+    "#Keluak"
+  ],
+  "category": "main-course",
+  "image": "https://res.cloudinary.com/dvujswueo/image/upload/v1772094854/explore-toraja/338027053_164762983163122_2594040416328942079_n.jpg",
+  "spiceLevel": 2,
+  "isHalal": false,
+  "isPublished": true,
+  "isFeatured": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T08:34:21.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968a"
+  },
+  "title": {
+    "id": "Deppa Tori'",
+    "en": "Deppa Tori'"
+  },
+  "slug": "deppa-tori",
+  "description": {
+    "id": "Kue tradisional dari tepung beras dan gula merah.",
+    "en": "Traditional cookie made from rice flour and brown sugar."
+  },
+  "story": {
+    "id": "Deppa Tori' adalah camilan paling ikonik dari Tana Toraja. Terbuat dari campuran sederhana tepung beras dan gula merah aren asli.",
+    "en": "Deppa Tori' is the most iconic snack from Tana Toraja. Made from a simple mixture of rice flour and authentic palm sugar."
+  },
+  "ingredients": {
+    "id": [
+      "Tepung Beras",
+      "Gula Merah"
+    ],
+    "en": [
+      "Rice Flour",
+      "Palm Sugar"
+    ]
+  },
+  "recommendations": [
+    {
+      "name": "Pusat Oleh-Oleh Kete Kesu",
+      "address": "Kawasan Wisata Kete Kesu",
+      "hours": "08:00 - 18:00",
+      "mapUrl": "#"
+    }
+  ],
+  "tags": [
+    "#DeppaTori",
+    "#Snack",
+    "#OlehOleh",
+    "#Sweet"
+  ],
+  "category": "snack",
+  "image": "/uploads/deppa-tori.jpg",
+  "spiceLevel": 1,
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968b"
+  },
+  "title": {
+    "id": "Kopi Arabika Toraja",
+    "en": "Toraja Arabica Coffee"
+  },
+  "slug": "toraja-coffee",
+  "description": {
+    "id": "Kopi kelas dunia dengan notes rasa earthy, spicy, dan floral.",
+    "en": "World-class coffee known for its earthy, spicy, and floral notes."
+  },
+  "story": {
+    "id": "Kopi Toraja dikenal dunia sebagai 'The Queen of Coffee'. Tumbuh di ketinggian 1.400 - 2.100 mdpl di tanah vulkanik Sapan.",
+    "en": "Toraja Coffee is known globally as 'The Queen of Coffee'. Grown at altitudes of 1,400 - 2,100 masl in the volcanic soil of Sapan."
+  },
+  "ingredients": {
+    "id": [
+      "Biji Kopi Arabika Sapan"
+    ],
+    "en": [
+      "Sapan Arabica Beans"
+    ]
+  },
+  "recommendations": [
+    {
+      "name": "Kafe Aras",
+      "address": "Rantepao City Center",
+      "hours": "07:00 - 22:00",
+      "mapUrl": "#"
+    },
+    {
+      "name": "Indo' Sapan",
+      "address": "Sapan Village",
+      "hours": "08:00 - 17:00",
+      "mapUrl": "#"
+    }
+  ],
+  "tags": [
+    "#Coffee",
+    "#TorajaCoffee",
+    "#Arabica",
+    "#SingleOrigin"
+  ],
+  "category": "drink",
+  "image": "/uploads/coffee.jpg",
+  "spiceLevel": 1,
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968c"
+  },
+  "title": {
+    "id": "Dangkot",
+    "en": "Dangkot"
+  },
+  "slug": "dangkot",
+  "description": {
+    "id": "Bebek bumbu pedas.",
+    "en": "Spicy duck dish."
+  },
+  "tags": [],
+  "category": "main-course",
+  "image": "/uploads/dangkot.jpg",
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": false,
+  "recommendations": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T09:27:11.695Z"
+  },
+  "ingredients": {
+    "id": [
+      "Daging ayam",
+      "Daun Mayana"
+    ],
+    "en": [
+      "Chicken",
+      "Mayana Leaves"
+    ]
+  },
+  "spiceLevel": 1
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968d"
+  },
+  "title": {
+    "id": "Kapurung",
+    "en": "Kapurung"
+  },
+  "slug": "kapurung",
+  "description": {
+    "id": "Bola sagu kuah sayur.",
+    "en": "Sago balls veggie soup."
+  },
+  "tags": [],
+  "category": "main-course",
+  "image": "/uploads/kapurung.jpg",
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": false,
+  "recommendations": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968e"
+  },
+  "title": {
+    "id": "Pa'lawa",
+    "en": "Pa'lawa"
+  },
+  "slug": "palawa",
+  "description": {
+    "id": "Ayam masak lengkuas.",
+    "en": "Galangal chicken."
+  },
+  "tags": [],
+  "category": "main-course",
+  "image": "/uploads/palawa.jpg",
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": false,
+  "recommendations": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ee3998c4d42ce6e54968f"
+  },
+  "title": {
+    "id": "Jipang",
+    "en": "Jipang"
+  },
+  "slug": "jipang",
+  "description": {
+    "id": "Camilan manis.",
+    "en": "Sweet snack."
+  },
+  "tags": [],
+  "category": "snack",
+  "image": "/uploads/jipang.jpg",
+  "isHalal": true,
+  "isPublished": true,
+  "isFeatured": false,
+  "recommendations": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-13T08:40:57.695Z"
+  }
+}]
