@@ -44,8 +44,8 @@ export default function HeroSection({ slides = [], locale = 'en' }: Props) {
         return () => clearInterval(interval);
     }, [itemsCount]);
 
-    const currentImage = hasSlides ? slides[currentIndex].image : defaultImages[currentIndex];
-    const currentVideo = hasSlides ? slides[currentIndex].video : undefined;
+    const currentImage = hasSlides && slides[currentIndex] ? slides[currentIndex].image : defaultImages[currentIndex];
+    const currentVideo = hasSlides && slides[currentIndex] ? slides[currentIndex].video : undefined;
 
     // For text content: usage generic t() for default, or specific slide data
     const title = hasSlides

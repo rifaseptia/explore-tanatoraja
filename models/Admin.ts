@@ -38,8 +38,6 @@ AdminSchema.methods.comparePassword = async function (candidatePassword: string)
     return bcrypt.compare(candidatePassword, this.password);
 };
 
-AdminSchema.index({ email: 1 });
-
 const Admin: Model<IAdmin> =
     mongoose.models.Admin || mongoose.model<IAdmin>('Admin', AdminSchema);
 

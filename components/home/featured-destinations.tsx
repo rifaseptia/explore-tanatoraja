@@ -101,6 +101,8 @@ export default function FeaturedDestinations({ destinations }: FeaturedDestinati
 
     const hasMultipleSlides = totalItems > itemsPerPage;
 
+    if (totalItems === 0) return null;
+
     return (
         <section id="destinations" className="py-10 bg-white">
             <div className="max-w-7xl mx-auto px-[38px]">
